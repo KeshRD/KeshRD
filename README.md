@@ -1,30 +1,84 @@
-<h1 align="center">Hey I'm Keshana Roshaka Dewranga</h1>
-<h3 align="center">Computer Science and Engineering Undergraduate in University of moratuwa.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshrd&label=Profile%20views&color=0e75b6&style=flat" alt="keshrd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshrd" alt="keshrd" /></a> </p>
-
-- 🌱 I’m currently learning **C++,Java,Kotlin,Xml**
-
-- 💬 Ask me about **App development**
-
-- 📫 How to reach me **alphamaths321@gmail.com**
-
-- ⚡ Fun fact **I think i am a good Singer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keshana-roshaka-dewranga-9440b4310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshana-roshaka-dewranga-9440b4310" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keshrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshrd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keshrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshrd" height="30" width="40" /></a>
+<h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Keshana+Roshaka+Dewranga;Computer+Science+Undergraduate;Android+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=keshrd&label=Profile+Views&color=00F72E&style=flat)
+[![GitHub Followers](https://img.shields.io/github/followers/keshrd?label=Follow&style=social&color=00F72E)](https://github.com/keshrd)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshrd&show_icons=true&locale=en&layout=compact" alt="keshrd" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshrd&show_icons=true&locale=en" alt="keshrd" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshrd&" alt="keshrd" /></p>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> About Me
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🎓 Computer Science Undergraduate @ University of Moratuwa
+- 💻 Passionate about **Android Development** and **Software Engineering**
+- 🌱 Currently mastering **Kotlin, Java, C++** and **Android Architecture**
+- 🔭 Working on innovative mobile solutions
+- ⚡ Fun fact: I'm a shower singer 🎤 and tech geek
+- 📫 Reach me: [alphamaths321@gmail.com](mailto:alphamaths321@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+#### Programming Languages
+<p align="left">
+  <a href="https://github.com/keshrd?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://github.com/keshrd?tab=repositories&q=&type=&language=kotlin&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
+  <a href="https://github.com/keshrd?tab=repositories&q=&type=&language=cpp&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://github.com/keshrd?tab=repositories&q=&type=&language=python&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+</p>
+
+#### Mobile Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
+</p>
+
+#### Tools & Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+| ![Keshana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshrd&show_icons=true&theme=dark&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshrd&theme=dark&hide_border=true) |
+| ------------- | ------------- |
+
+[![Keshana's Activity Graph](https://activity-graph.herokuapp.com/graph?username=keshrd&theme=react-dark&hide_border=true)](https://github.com/keshrd)
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/keshana-roshaka-dewranga-9440b4310"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  <a href="https://www.hackerrank.com/keshrd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/></a>
+  <a href="https://www.leetcode.com/keshrd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
+  <a href="mailto:alphamaths321@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"/></a>
+</p>
+
+---
+
+<div align="center">
+  
+![Coding Animation](https://raw.githubusercontent.com/keshrd/keshrd/main/assets/coding.gif)
+  
+</div>
