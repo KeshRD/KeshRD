@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Welcome ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hello Welcome !  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Keshana+Roshaka+Dewranga;Computer+Science+Undergraduate;Android+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
@@ -12,11 +12,11 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> About Me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🎓 Computer Science Undergraduate @ University of Moratuwa
+- 🎓 Computer Science Undergraduate at University of Moratuwa (".... Wisdom is wealth ....")
 - 💻 Passionate about **Android Development** and **Software Engineering**
 - 🌱 Currently mastering **Kotlin, Java, C++** and **Android Architecture**
 - 🔭 Working on innovative mobile solutions
@@ -53,7 +53,7 @@
 
 ---
 
-###  GitHub Analytics
+###  GitHub Analytics<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 
 <div align="center">
@@ -68,7 +68,8 @@
 
 ---
 
-### 🤝 Connect With Me
+<h2> Connect with me </h2>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 
 <p align="left">
   <a href="https://linkedin.com/in/keshana-roshaka-dewranga-9440b4310"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
