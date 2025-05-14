@@ -16,7 +16,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🎓 Computer Science Undergraduate at University of Moratuwa (".... Wisdom is wealth ....")
+- 🎓 Computer Science Engineering Undergraduate at University of Moratuwa (".... Wisdom is wealth ....")
 - 💻 Passionate about **Android Development** and **Software Engineering**
 - 🌱 Currently mastering **Kotlin, Java, C++** and **Android Architecture**
 - 🔭 Working on innovative mobile solutions
