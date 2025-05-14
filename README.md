@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hello Welcome ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Keshana+Roshaka+Dewranga;Computer+Science+Undergraduate;Android+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
@@ -53,14 +53,16 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
+
 
 <div align="center">
-
-| ![Keshana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshrd&show_icons=true&theme=dark&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshrd&theme=dark&hide_border=true) |
+  
+| ![Keshana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshrd&show_icons=true&theme=dark&hide_border=true)  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrd&layout=compact&theme=omni&hide_border=true" alt="Top Langs"/> |
 | ------------- | ------------- |
 
-[![Keshana's Activity Graph](https://activity-graph.herokuapp.com/graph?username=keshrd&theme=react-dark&hide_border=true)](https://github.com/keshrd)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshrd&theme=omni&hide_border=true)
+
 
 </div>
 
