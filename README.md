@@ -53,20 +53,7 @@
 
 ---
 
-###  GitHub Analytics<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
-
-<div align="center">
-  
-| ![Keshana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshrd&show_icons=true&theme=dark&hide_border=true)  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrd&layout=compact&theme=omni&hide_border=true" alt="Top Langs"/> |
-| ------------- | ------------- |
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshrd&theme=omni&hide_border=true)
-
-
-</div>
-
----
 
 <h2> Connect with me </h2>
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
