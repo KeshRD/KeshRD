@@ -1,74 +1,100 @@
-<h1 align="center"> Hello Welcome !  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi, I'm Keshana Dewranga 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Keshana+Roshaka+Dewranga;Computer+Science+Undergraduate;Android+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <strong>Computer Science & Engineering Undergraduate</strong><br>
+  University of Moratuwa 🇱🇰
 </p>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=keshrd&label=Profile+Views&color=00F72E&style=flat)
-[![GitHub Followers](https://img.shields.io/github/followers/keshrd?label=Follow&style=social&color=00F72E)](https://github.com/keshrd)
-
-</div>
-
----
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🎓 Computer Science Engineering Undergraduate at University of Moratuwa (".... Wisdom is wealth ....")
-- 💻 Passionate about **Android Development** and **Software Engineering**
-- 🌱 Currently mastering **Kotlin, Java, C++** and **Android Architecture**
-- 🔭 Working on innovative mobile solutions
-- ⚡ Fun fact: I'm a shower singer 🎤 and tech geek
-- 📫 Reach me: [alphamaths321@gmail.com](mailto:alphamaths321@gmail.com)
-
----
-
-### 🛠️ Tech Stack
-
-#### Programming Languages
-<p align="left">
-  <a href="https://github.com/keshrd?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://github.com/keshrd?tab=repositories&q=&type=&language=kotlin&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
-  <a href="https://github.com/keshrd?tab=repositories&q=&type=&language=cpp&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://github.com/keshrd?tab=repositories&q=&type=&language=python&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
-</p>
-
-#### Mobile Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
-</p>
-
-#### Tools & Technologies
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/keshana-dewranga">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:keshanad.23@cse.mrt.ac.lk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/KeshRD">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
+🎓 **BSc Engineering (Hons) in Computer Science & Engineering**
+University of Moratuwa · 2024 – 2028
 
-<h2> Connect with me </h2>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
+💻 I enjoy building **full-stack web applications, mobile apps, and AI-powered systems**.
 
-<p align="left">
-  <a href="https://linkedin.com/in/keshana-roshaka-dewranga-9440b4310"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/keshrd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/></a>
-  <a href="https://www.leetcode.com/keshrd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
-  <a href="mailto:alphamaths321@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"/></a>
+🧠 Interested in **applied AI/ML, healthcare technology, disaster-response systems, and Sinhala-language digital products**.
+
+🌱 Currently focused on strengthening my software engineering skills and building practical, production-oriented projects.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+</p>
+
+### Web & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+</p>
+
+### Databases, Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+### Tools & Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 </p>
 
 ---
 
-<div align="center">
-  
-![Coding Animation](https://raw.githubusercontent.com/keshrd/keshrd/main/assets/coding.gif)
-  
-</div>
+## 📫 Contact
+
+* ✉️ **Email:** [keshanad.23@cse.mrt.ac.lk](mailto:keshanad.23@cse.mrt.ac.lk)
+* 📱 **Phone:** +94 76 903 3466
+* 🔗 **GitHub:** [@KeshRD](https://github.com/KeshRD)
+* 💼 **LinkedIn:** [Keshana Dewranga](https://www.linkedin.com/in/keshana-dewranga)
+
+<p align="center">
+  <i>Open to internships, collaborations, and opportunities in software engineering.</i>
+</p>
